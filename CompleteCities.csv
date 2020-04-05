@@ -1,613 +1,776 @@
-,population,sick,city names,wiki article,wiki,lat,lon,valid GEO,text,percent
-0,914559,1132,ירושלים,https://nominatim.openstreetmap.org/search.php?q=ירושלים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ירושלים&format=json"">link</a>",31.778345,35.2250786,True,"At:
+,population,sick,city names,wiki article,wiki,lat,lon,valid GEO,text,per 1000
+0,914559,1302,ירושלים,https://nominatim.openstreetmap.org/search.php?q=ירושלים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ירושלים&format=json"">link</a>",31.778345,35.2250786,True,"At:
 ירושלים
-Sick: 1132
-Population: 914559",0.001237755027286375
-2,450192,337,תל אביב - יפו,https://nominatim.openstreetmap.org/search.php?q=תל אביב - יפו&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=תל אביב - יפו&format=json"">link</a>",32.0804808,34.7805274,True,"At:
+Sick: 1302
+Population: 914559
+Per 1000: 1.4236369660131276",1.4236369660131276
+2,450192,359,תל אביב - יפו,https://nominatim.openstreetmap.org/search.php?q=תל אביב - יפו&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=תל אביב - יפו&format=json"">link</a>",32.0804808,34.7805274,True,"At:
 תל אביב - יפו
-Sick: 337
-Population: 450192",0.0007485694992358816
-14,272584,96,חיפה,https://nominatim.openstreetmap.org/search.php?q=חיפה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=חיפה&format=json"">link</a>",32.8191218,34.9983856,True,"At:
+Sick: 359
+Population: 450192
+Per 1000: 0.7974375377616661",0.7974375377616661
+14,272584,105,חיפה,https://nominatim.openstreetmap.org/search.php?q=חיפה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=חיפה&format=json"">link</a>",32.8191218,34.9983856,True,"At:
 חיפה
-Sick: 96
-Population: 272584",0.00035218501452763184
-4,242478,138,פתח תקווה,https://nominatim.openstreetmap.org/search.php?q=פתח תקווה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=פתח תקווה&format=json"">link</a>",32.0877639,34.8859985,True,"At:
+Sick: 105
+Population: 272584
+Per 1000: 0.38520235963959737",0.38520235963959737
+4,242478,159,פתח תקווה,https://nominatim.openstreetmap.org/search.php?q=פתח תקווה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=פתח תקווה&format=json"">link</a>",32.0877639,34.8859985,True,"At:
 פתח תקווה
-Sick: 138
-Population: 242478",0.00056912379679806
-5,241010,132,ראשון לציון,https://nominatim.openstreetmap.org/search.php?q=ראשון לציון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ראשון לציון&format=json"">link</a>",31.9635712,34.8101149,True,"At:
+Sick: 159
+Population: 242478
+Per 1000: 0.6557295919629822",0.6557295919629822
+5,241010,139,ראשון לציון,https://nominatim.openstreetmap.org/search.php?q=ראשון לציון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ראשון לציון&format=json"">link</a>",31.9635712,34.8101149,True,"At:
 ראשון לציון
-Sick: 132
-Population: 241010",0.0005476951163852122
-10,225073,111,אשדוד,https://nominatim.openstreetmap.org/search.php?q=אשדוד&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אשדוד&format=json"">link</a>",31.7977314,34.6529922,True,"At:
+Sick: 139
+Population: 241010
+Per 1000: 0.5767395543753371",0.5767395543753371
+9,225073,129,אשדוד,https://nominatim.openstreetmap.org/search.php?q=אשדוד&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אשדוד&format=json"">link</a>",31.7977314,34.6529922,True,"At:
 אשדוד
-Sick: 111
-Population: 225073",0.0004931733259875685
-6,213971,126,נתניה,https://nominatim.openstreetmap.org/search.php?q=נתניה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=נתניה&format=json"">link</a>",32.3286181,34.8566246,True,"At:
+Sick: 129
+Population: 225073
+Per 1000: 0.5731473788504173",0.5731473788504173
+7,213971,137,נתניה,https://nominatim.openstreetmap.org/search.php?q=נתניה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=נתניה&format=json"">link</a>",32.3286181,34.8566246,True,"At:
 נתניה
-Sick: 126
-Population: 213971",0.0005888648461707428
-9,196755,112,באר שבע,https://nominatim.openstreetmap.org/search.php?q=באר שבע&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=באר שבע&format=json"">link</a>",31.2525238,34.7905787,True,"At:
+Sick: 137
+Population: 213971
+Per 1000: 0.6402736819475536",0.6402736819475536
+10,196755,121,באר שבע,https://nominatim.openstreetmap.org/search.php?q=באר שבע&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=באר שבע&format=json"">link</a>",31.2525238,34.7905787,True,"At:
 באר שבע
-Sick: 112
-Population: 196755",0.0005692358516937308
-1,195298,1061,בני ברק,https://nominatim.openstreetmap.org/search.php?q=בני ברק&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בני ברק&format=json"">link</a>",32.0873899,34.8324376,True,"At:
+Sick: 121
+Population: 196755
+Per 1000: 0.6149780183476913",0.6149780183476913
+1,195298,1214,בני ברק,https://nominatim.openstreetmap.org/search.php?q=בני ברק&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בני ברק&format=json"">link</a>",32.0873899,34.8324376,True,"At:
 בני ברק
-Sick: 1061
-Population: 195298",0.005432723325379676
-12,185741,104,חולון,https://nominatim.openstreetmap.org/search.php?q=חולון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=חולון&format=json"">link</a>",32.0193121,34.7804076,True,"At:
+Sick: 1214
+Population: 195298
+Per 1000: 6.216141486343947",6.216141486343947
+13,185741,110,חולון,https://nominatim.openstreetmap.org/search.php?q=חולון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=חולון&format=json"">link</a>",32.0193121,34.7804076,True,"At:
 חולון
-Sick: 104
-Population: 185741",0.0005599194577395406
-11,143370,106,רמת גן,https://nominatim.openstreetmap.org/search.php?q=רמת גן&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=רמת גן&format=json"">link</a>",32.0686867,34.8246812,True,"At:
+Sick: 110
+Population: 185741
+Per 1000: 0.5922225033783601",0.5922225033783601
+11,143370,116,רמת גן,https://nominatim.openstreetmap.org/search.php?q=רמת גן&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=רמת גן&format=json"">link</a>",32.0686867,34.8246812,True,"At:
 רמת גן
-Sick: 106
-Population: 143370",0.0007393457487619446
-3,139032,170,אשקלון,https://nominatim.openstreetmap.org/search.php?q=אשקלון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אשקלון&format=json"">link</a>",31.6644874,34.5730157,True,"At:
+Sick: 116
+Population: 143370
+Per 1000: 0.8090953477017507",0.8090953477017507
+3,139032,191,אשקלון,https://nominatim.openstreetmap.org/search.php?q=אשקלון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אשקלון&format=json"">link</a>",31.6644874,34.5730157,True,"At:
 אשקלון
-Sick: 170
-Population: 139032",0.0012227400886126935
-23,137178,66,רחובות,https://nominatim.openstreetmap.org/search.php?q=רחובות&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=רחובות&format=json"">link</a>",31.8952532,34.8105616,True,"At:
+Sick: 191
+Population: 139032
+Per 1000: 1.3737844525001437",1.3737844525001437
+23,137178,68,רחובות,https://nominatim.openstreetmap.org/search.php?q=רחובות&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=רחובות&format=json"">link</a>",31.8952532,34.8105616,True,"At:
 רחובות
-Sick: 66
-Population: 137178",0.00048112671128023443
-13,130523,102,בת ים,https://nominatim.openstreetmap.org/search.php?q=בת ים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בת ים&format=json"">link</a>",32.0154565,34.7505283,True,"At:
+Sick: 68
+Population: 137178
+Per 1000: 0.4957063085917567",0.4957063085917567
+15,130523,103,בת ים,https://nominatim.openstreetmap.org/search.php?q=בת ים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בת ים&format=json"">link</a>",32.0154565,34.7505283,True,"At:
 בת ים
-Sick: 102
-Population: 130523",0.0007814714647993074
-8,120812,118,בית שמש,https://nominatim.openstreetmap.org/search.php?q=בית שמש&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בית שמש&format=json"">link</a>",31.746214,34.9886825,True,"At:
+Sick: 103
+Population: 130523
+Per 1000: 0.7891329497483203",0.7891329497483203
+6,120812,137,בית שמש,https://nominatim.openstreetmap.org/search.php?q=בית שמש&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בית שמש&format=json"">link</a>",31.746214,34.9886825,True,"At:
 בית שמש
-Sick: 118
-Population: 120812",0.0009767241664735292
-26,97412,50,כפר סבא,https://nominatim.openstreetmap.org/search.php?q=כפר סבא&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כפר סבא&format=json"">link</a>",32.1773471,34.907459,True,"At:
+Sick: 137
+Population: 120812
+Per 1000: 1.1339933119226568",1.1339933119226568
+26,97412,56,כפר סבא,https://nominatim.openstreetmap.org/search.php?q=כפר סבא&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כפר סבא&format=json"">link</a>",32.1773471,34.907459,True,"At:
 כפר סבא
-Sick: 50
-Population: 97412",0.0005132837843386852
-47,94104,22,חדרה,https://nominatim.openstreetmap.org/search.php?q=חדרה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=חדרה&format=json"">link</a>",32.43699,34.9198258,True,"At:
+Sick: 56
+Population: 97412
+Per 1000: 0.5748778384593274",0.5748778384593274
+47,94104,24,חדרה,https://nominatim.openstreetmap.org/search.php?q=חדרה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=חדרה&format=json"">link</a>",32.43699,34.9198258,True,"At:
 חדרה
-Sick: 22
-Population: 94104",0.00023378389866530647
-22,90900,69,הרצליה,https://nominatim.openstreetmap.org/search.php?q=הרצליה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=הרצליה&format=json"">link</a>",32.1720339,34.83099838250153,True,"At:
+Sick: 24
+Population: 94104
+Per 1000: 0.2550369803621525",0.2550369803621525
+22,90900,74,הרצליה,https://nominatim.openstreetmap.org/search.php?q=הרצליה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=הרצליה&format=json"">link</a>",32.1720339,34.83099838250153,True,"At:
 הרצליה
-Sick: 69
-Population: 90900",0.0007590759075907591
-16,87108,91,מודיעין-מכבים-רעות,https://nominatim.openstreetmap.org/search.php?q=מודיעין-מכבים-רעות&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מודיעין-מכבים-רעות&format=json"">link</a>",31.9085744,35.0069297,True,"At:
+Sick: 74
+Population: 90900
+Per 1000: 0.8140814081408141",0.8140814081408141
+16,87108,101,מודיעין-מכבים-רעות,https://nominatim.openstreetmap.org/search.php?q=מודיעין-מכבים-רעות&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מודיעין-מכבים-רעות&format=json"">link</a>",31.9085744,35.0069297,True,"At:
 מודיעין-מכבים-רעות
-Sick: 91
-Population: 87108",0.0010446801671488268
-85,78252,7,נצרת,https://nominatim.openstreetmap.org/search.php?q=נצרת&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=נצרת&format=json"">link</a>",32.7066301,35.3048161,True,"At:
+Sick: 101
+Population: 87108
+Per 1000: 1.1594801855168295",1.1594801855168295
+91,78252,7,נצרת,https://nominatim.openstreetmap.org/search.php?q=נצרת&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=נצרת&format=json"">link</a>",32.7066301,35.3048161,True,"At:
 נצרת
 Sick: 7
-Population: 78252",8.94545826304759e-05
-33,75246,36,רמלה,https://nominatim.openstreetmap.org/search.php?q=רמלה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=רמלה&format=json"">link</a>",31.9279988,34.8623473,True,"At:
+Population: 78252
+Per 1000: 0.0894545826304759",0.0894545826304759
+32,75246,40,רמלה,https://nominatim.openstreetmap.org/search.php?q=רמלה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=רמלה&format=json"">link</a>",31.9279988,34.8623473,True,"At:
 רמלה
-Sick: 36
-Population: 75246",0.0004784307471493501
-27,75038,44,לוד,https://nominatim.openstreetmap.org/search.php?q=לוד&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=לוד&format=json"">link</a>",31.9489012,34.8884857,True,"At:
+Sick: 40
+Population: 75246
+Per 1000: 0.5315897190548334",0.5315897190548334
+28,75038,46,לוד,https://nominatim.openstreetmap.org/search.php?q=לוד&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=לוד&format=json"">link</a>",31.9489012,34.8884857,True,"At:
 לוד
-Sick: 44
-Population: 75038",0.0005863695727498068
-20,73979,73,רעננה,https://nominatim.openstreetmap.org/search.php?q=רעננה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=רעננה&format=json"">link</a>",32.1862752,34.8692427,True,"At:
+Sick: 46
+Population: 75038
+Per 1000: 0.6130227351475253",0.6130227351475253
+21,73979,75,רעננה,https://nominatim.openstreetmap.org/search.php?q=רעננה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=רעננה&format=json"">link</a>",32.1862752,34.8692427,True,"At:
 רעננה
-Sick: 73
-Population: 73979",0.0009867665148217738
-15,73808,91,מודיעין עילית,https://nominatim.openstreetmap.org/search.php?q=מודיעין עילית&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מודיעין עילית&format=json"">link</a>",31.9324487,35.0433428,True,"At:
+Sick: 75
+Population: 73979
+Per 1000: 1.0138012138579868",1.0138012138579868
+12,73808,115,מודיעין עילית,https://nominatim.openstreetmap.org/search.php?q=מודיעין עילית&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מודיעין עילית&format=json"">link</a>",31.9324487,35.0433428,True,"At:
 מודיעין עילית
-Sick: 91
-Population: 73808",0.0012329286798179059
-107,64649,4,רהט,https://nominatim.openstreetmap.org/search.php?q=רהט&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=רהט&format=json"">link</a>",31.3932933,34.7547693,True,"At:
+Sick: 115
+Population: 73808
+Per 1000: 1.5580966832863647",1.5580966832863647
+103,64649,5,רהט,https://nominatim.openstreetmap.org/search.php?q=רהט&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=רהט&format=json"">link</a>",31.3932933,34.7547693,True,"At:
 רהט
-Sick: 4
-Population: 64649",6.18725734350106e-05
-21,59240,70,ביתר עילית,https://nominatim.openstreetmap.org/search.php?q=ביתר עילית&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ביתר עילית&format=json"">link</a>",31.699222650000003,35.10483926101966,True,"At:
+Sick: 5
+Population: 64649
+Per 1000: 0.07734071679376325",0.07734071679376325
+18,59240,88,ביתר עילית,https://nominatim.openstreetmap.org/search.php?q=ביתר עילית&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ביתר עילית&format=json"">link</a>",31.699222650000003,35.10483926101966,True,"At:
 ביתר עילית
-Sick: 70
-Population: 59240",0.0011816340310600946
+Sick: 88
+Population: 59240
+Per 1000: 1.485482781904119",1.485482781904119
 37,59171,29,הוד השרון,https://nominatim.openstreetmap.org/search.php?q=הוד השרון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=הוד השרון&format=json"">link</a>",32.1561974,34.8930354,True,"At:
 הוד השרון
 Sick: 29
-Population: 59171",0.0004901049500599956
-40,58750,26,נהריה,https://nominatim.openstreetmap.org/search.php?q=נהריה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=נהריה&format=json"">link</a>",33.006306,35.0945579,True,"At:
+Population: 59171
+Per 1000: 0.4901049500599956",0.4901049500599956
+43,58750,26,נהריה,https://nominatim.openstreetmap.org/search.php?q=נהריה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=נהריה&format=json"">link</a>",33.006306,35.0945579,True,"At:
 נהריה
 Sick: 26
-Population: 58750",0.0004425531914893617
-62,57108,16,קרית אתא,https://nominatim.openstreetmap.org/search.php?q=קרית אתא&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית אתא&format=json"">link</a>",32.8115779,35.1163659,True,"At:
+Population: 58750
+Per 1000: 0.4425531914893617",0.4425531914893617
+63,57108,16,קרית אתא,https://nominatim.openstreetmap.org/search.php?q=קרית אתא&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית אתא&format=json"">link</a>",32.8115779,35.1163659,True,"At:
 קרית אתא
 Sick: 16
-Population: 57108",0.00028017090425159347
-73,56568,10,אילת,https://nominatim.openstreetmap.org/search.php?q=אילת&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אילת&format=json"">link</a>",29.5569348,34.9497949,True,"At:
+Population: 57108
+Per 1000: 0.28017090425159347",0.28017090425159347
+75,56568,10,אילת,https://nominatim.openstreetmap.org/search.php?q=אילת&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אילת&format=json"">link</a>",29.5569348,34.9497949,True,"At:
 אילת
 Sick: 10
-Population: 56568",0.00017677839060953188
-41,55400,26,קרית גת,https://nominatim.openstreetmap.org/search.php?q=קרית גת&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית גת&format=json"">link</a>",31.6093998,34.7711983,True,"At:
+Population: 56568
+Per 1000: 0.17677839060953188",0.17677839060953188
+44,55400,26,קרית גת,https://nominatim.openstreetmap.org/search.php?q=קרית גת&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית גת&format=json"">link</a>",31.6093998,34.7711983,True,"At:
 קרית גת
 Sick: 26
-Population: 55400",0.00046931407942238265
-65,55324,13,אום אל-פחם,https://nominatim.openstreetmap.org/search.php?q=אום אל-פחם&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אום אל-פחם&format=json"">link</a>",32.5158385,35.152491,True,"At:
+Population: 55400
+Per 1000: 0.4693140794223826",0.4693140794223826
+61,55324,16,אום אל-פחם,https://nominatim.openstreetmap.org/search.php?q=אום אל-פחם&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אום אל-פחם&format=json"">link</a>",32.5158385,35.152491,True,"At:
 אום אל-פחם
-Sick: 13
-Population: 55324",0.00023497939411466995
-38,55123,27,גבעתיים,https://nominatim.openstreetmap.org/search.php?q=גבעתיים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=גבעתיים&format=json"">link</a>",32.0729606,34.8113279,True,"At:
+Sick: 16
+Population: 55324
+Per 1000: 0.2892054081411322",0.2892054081411322
+39,55123,28,גבעתיים,https://nominatim.openstreetmap.org/search.php?q=גבעתיים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=גבעתיים&format=json"">link</a>",32.0729606,34.8113279,True,"At:
 גבעתיים
-Sick: 27
-Population: 55123",0.000489813689385556
-52,53965,21,ראש העין,https://nominatim.openstreetmap.org/search.php?q=ראש העין&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ראש העין&format=json"">link</a>",32.0952929,34.9533225,True,"At:
+Sick: 28
+Population: 55123
+Per 1000: 0.5079549371405765",0.5079549371405765
+49,53965,24,ראש העין,https://nominatim.openstreetmap.org/search.php?q=ראש העין&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ראש העין&format=json"">link</a>",32.0952929,34.9533225,True,"At:
 ראש העין
-Sick: 21
-Population: 53965",0.0003891411099786899
-28,50886,41,עפולה,https://nominatim.openstreetmap.org/search.php?q=עפולה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=עפולה&format=json"">link</a>",32.6075587,35.2890861,True,"At:
+Sick: 24
+Population: 53965
+Per 1000: 0.4447326971185027",0.4447326971185027
+27,50886,49,עפולה,https://nominatim.openstreetmap.org/search.php?q=עפולה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=עפולה&format=json"">link</a>",32.6075587,35.2890861,True,"At:
 עפולה
-Sick: 41
-Population: 50886",0.000805722595605864
-69,50872,12,עכו,https://nominatim.openstreetmap.org/search.php?q=עכו&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=עכו&format=json"">link</a>",32.9281731,35.0756378,True,"At:
+Sick: 49
+Population: 50886
+Per 1000: 0.9629367606021303",0.9629367606021303
+69,50872,13,עכו,https://nominatim.openstreetmap.org/search.php?q=עכו&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=עכו&format=json"">link</a>",32.9281731,35.0756378,True,"At:
 עכו
-Sick: 12
-Population: 50872",0.00023588614562038057
-7,46760,120,אלעד,https://nominatim.openstreetmap.org/search.php?q=אלעד&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אלעד&format=json"">link</a>",32.0495306,34.9507087,True,"At:
+Sick: 13
+Population: 50872
+Per 1000: 0.25554332442207894",0.25554332442207894
+8,46760,133,אלעד,https://nominatim.openstreetmap.org/search.php?q=אלעד&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אלעד&format=json"">link</a>",32.0495306,34.9507087,True,"At:
 אלעד
-Sick: 120
-Population: 46760",0.0025662959794696323
-51,46596,21,כרמיאל,https://nominatim.openstreetmap.org/search.php?q=כרמיאל&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כרמיאל&format=json"">link</a>",32.91098395,35.293544377961176,True,"At:
+Sick: 133
+Population: 46760
+Per 1000: 2.8443113772455093",2.8443113772455093
+58,46596,21,כרמיאל,https://nominatim.openstreetmap.org/search.php?q=כרמיאל&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כרמיאל&format=json"">link</a>",32.9159104,35.293429,True,"At:
 כרמיאל
 Sick: 21
-Population: 46596",0.0004506824620139068
-81,45714,8,נס ציונה,https://nominatim.openstreetmap.org/search.php?q=נס ציונה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=נס ציונה&format=json"">link</a>",31.9295577,34.7990609,True,"At:
+Population: 46596
+Per 1000: 0.45068246201390677",0.45068246201390677
+81,45714,9,נס ציונה,https://nominatim.openstreetmap.org/search.php?q=נס ציונה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=נס ציונה&format=json"">link</a>",31.9295577,34.7990609,True,"At:
 נס ציונה
-Sick: 8
-Population: 45714",0.00017500109375683597
-50,45555,21,יבנה,https://nominatim.openstreetmap.org/search.php?q=יבנה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=יבנה&format=json"">link</a>",31.8768863,34.7382974,True,"At:
+Sick: 9
+Population: 45714
+Per 1000: 0.19687623047644046",0.19687623047644046
+45,45555,25,יבנה,https://nominatim.openstreetmap.org/search.php?q=יבנה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=יבנה&format=json"">link</a>",31.8768863,34.7382974,True,"At:
 יבנה
-Sick: 21
-Population: 45555",0.0004609812314784327
-36,44896,32,רמת השרון,https://nominatim.openstreetmap.org/search.php?q=רמת השרון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=רמת השרון&format=json"">link</a>",32.1431276,34.8380853,True,"At:
+Sick: 25
+Population: 45555
+Per 1000: 0.5487871803314675",0.5487871803314675
+36,44896,33,רמת השרון,https://nominatim.openstreetmap.org/search.php?q=רמת השרון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=רמת השרון&format=json"">link</a>",32.1431276,34.8380853,True,"At:
 רמת השרון
-Sick: 32
-Population: 44896",0.0007127583749109052
-17,44353,83,טבריה,https://nominatim.openstreetmap.org/search.php?q=טבריה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=טבריה&format=json"">link</a>",32.7938522,35.5328566,True,"At:
+Sick: 33
+Population: 44896
+Per 1000: 0.735032074126871",0.735032074126871
+17,44353,94,טבריה,https://nominatim.openstreetmap.org/search.php?q=טבריה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=טבריה&format=json"">link</a>",32.7938522,35.5328566,True,"At:
 טבריה
-Sick: 83
-Population: 44353",0.0018713503032489348
-59,43811,18,נוף הגליל,https://nominatim.openstreetmap.org/search.php?q=נוף הגליל&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=נוף הגליל&format=json"">link</a>",32.7023065,35.3183216,True,"At:
+Sick: 94
+Population: 44353
+Per 1000: 2.1193605844024077",2.1193605844024077
+55,43811,22,נוף הגליל,https://nominatim.openstreetmap.org/search.php?q=נוף הגליל&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=נוף הגליל&format=json"">link</a>",32.7023065,35.3183216,True,"At:
 נוף הגליל
-Sick: 18
-Population: 43811",0.00041085572116591725
-79,43144,8,טייבה,https://nominatim.openstreetmap.org/search.php?q=טייבה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=טייבה&format=json"">link</a>",32.2671249,35.0089029,True,"At:
+Sick: 22
+Population: 43811
+Per 1000: 0.502156992536121",0.502156992536121
+84,43144,8,טייבה,https://nominatim.openstreetmap.org/search.php?q=טייבה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=טייבה&format=json"">link</a>",32.2671249,35.0089029,True,"At:
 טייבה
 Sick: 8
-Population: 43144",0.00018542555164101615
-95,42870,6,קרית מוצקין,https://nominatim.openstreetmap.org/search.php?q=קרית מוצקין&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית מוצקין&format=json"">link</a>",32.84456165,35.08431641851019,True,"At:
+Population: 43144
+Per 1000: 0.18542555164101615",0.18542555164101615
+96,42870,6,קרית מוצקין,https://nominatim.openstreetmap.org/search.php?q=קרית מוצקין&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית מוצקין&format=json"">link</a>",32.84456165,35.08431641851019,True,"At:
 קרית מוצקין
 Sick: 6
-Population: 42870",0.00013995801259622114
-129,40666,2,שפרעם,https://nominatim.openstreetmap.org/search.php?q=שפרעם&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=שפרעם&format=json"">link</a>",32.8045765,35.1723866,True,"At:
+Population: 42870
+Per 1000: 0.13995801259622115",0.13995801259622115
+132,40666,2,שפרעם,https://nominatim.openstreetmap.org/search.php?q=שפרעם&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=שפרעם&format=json"">link</a>",32.8045765,35.1723866,True,"At:
 שפרעם
 Sick: 2
-Population: 40666",4.9181134116952735e-05
-94,40622,6,פרדס חנה-כרכור,https://nominatim.openstreetmap.org/search.php?q=פרדס חנה-כרכור&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=פרדס חנה-כרכור&format=json"">link</a>",32.475041,34.9761087,True,"At:
+Population: 40666
+Per 1000: 0.049181134116952734",0.049181134116952734
+95,40622,6,פרדס חנה-כרכור,https://nominatim.openstreetmap.org/search.php?q=פרדס חנה-כרכור&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=פרדס חנה-כרכור&format=json"">link</a>",32.475041,34.9761087,True,"At:
 פרדס חנה-כרכור
 Sick: 6
-Population: 40622",0.00014770321500664663
-58,39556,19,קרית ים,https://nominatim.openstreetmap.org/search.php?q=קרית ים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית ים&format=json"">link</a>",32.86217705,35.07888809842724,True,"At:
+Population: 40622
+Per 1000: 0.14770321500664663",0.14770321500664663
+60,39556,20,קרית ים,https://nominatim.openstreetmap.org/search.php?q=קרית ים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית ים&format=json"">link</a>",32.86217705,35.07888809842724,True,"At:
 קרית ים
-Sick: 19
-Population: 39556",0.0004803316816664981
-86,39262,7,קרית ביאליק,https://nominatim.openstreetmap.org/search.php?q=קרית ביאליק&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית ביאליק&format=json"">link</a>",32.842034,35.100408081423566,True,"At:
-קרית ביאליק
-Sick: 7
-Population: 39262",0.00017828944017115786
-39,37469,27,מעלה אדומים,https://nominatim.openstreetmap.org/search.php?q=מעלה אדומים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מעלה אדומים&format=json"">link</a>",31.7705643,35.2987457,True,"At:
-מעלה אדומים
-Sick: 27
-Population: 37469",0.0007205956924390829
-30,37112,38,קרית אונו,https://nominatim.openstreetmap.org/search.php?q=קרית אונו&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית אונו&format=json"">link</a>",32.0581907,34.85824766018813,True,"At:
-קרית אונו
-Sick: 38
-Population: 37112",0.0010239275705971114
-54,36511,20,נתיבות,https://nominatim.openstreetmap.org/search.php?q=נתיבות&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=נתיבות&format=json"">link</a>",31.4213546,34.5884252,True,"At:
-נתיבות
 Sick: 20
-Population: 36511",0.0005477801210594067
-31,35671,37,צפת,https://nominatim.openstreetmap.org/search.php?q=צפת&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=צפת&format=json"">link</a>",32.9646301,35.502451,True,"At:
+Population: 39556
+Per 1000: 0.5056122964910507",0.5056122964910507
+86,39262,8,קרית ביאליק,https://nominatim.openstreetmap.org/search.php?q=קרית ביאליק&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית ביאליק&format=json"">link</a>",32.842034,35.100408081423566,True,"At:
+קרית ביאליק
+Sick: 8
+Population: 39262
+Per 1000: 0.20375936019560897",0.20375936019560897
+38,37469,29,מעלה אדומים,https://nominatim.openstreetmap.org/search.php?q=מעלה אדומים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מעלה אדומים&format=json"">link</a>",31.7705643,35.2987457,True,"At:
+מעלה אדומים
+Sick: 29
+Population: 37469
+Per 1000: 0.7739731511382743",0.7739731511382743
+31,37112,41,קרית אונו,https://nominatim.openstreetmap.org/search.php?q=קרית אונו&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית אונו&format=json"">link</a>",32.0581907,34.85824766018813,True,"At:
+קרית אונו
+Sick: 41
+Population: 37112
+Per 1000: 1.104763957749515",1.104763957749515
+48,36511,24,נתיבות,https://nominatim.openstreetmap.org/search.php?q=נתיבות&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=נתיבות&format=json"">link</a>",31.4213546,34.5884252,True,"At:
+נתיבות
+Sick: 24
+Population: 36511
+Per 1000: 0.657336145271288",0.657336145271288
+29,35671,43,צפת,https://nominatim.openstreetmap.org/search.php?q=צפת&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=צפת&format=json"">link</a>",32.9646301,35.502451,True,"At:
 צפת
-Sick: 37
-Population: 35671",0.0010372571556726753
-57,35377,19,דימונה,https://nominatim.openstreetmap.org/search.php?q=דימונה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=דימונה&format=json"">link</a>",31.0686612,35.0366482,True,"At:
+Sick: 43
+Population: 35671
+Per 1000: 1.2054610187547308",1.2054610187547308
+53,35377,22,דימונה,https://nominatim.openstreetmap.org/search.php?q=דימונה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=דימונה&format=json"">link</a>",31.0686612,35.0366482,True,"At:
 דימונה
-Sick: 19
-Population: 35377",0.0005370721089973712
-19,34843,74,אור יהודה,https://nominatim.openstreetmap.org/search.php?q=אור יהודה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אור יהודה&format=json"">link</a>",32.0309712,34.8523936,True,"At:
+Sick: 22
+Population: 35377
+Per 1000: 0.6218729683127456",0.6218729683127456
+19,34843,84,אור יהודה,https://nominatim.openstreetmap.org/search.php?q=אור יהודה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אור יהודה&format=json"">link</a>",32.0309712,34.8523936,True,"At:
 אור יהודה
-Sick: 74
-Population: 34843",0.00212381253049393
-64,33792,14,טמרה,https://nominatim.openstreetmap.org/search.php?q=טמרה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=טמרה&format=json"">link</a>",32.8534876,35.1978748,True,"At:
+Sick: 84
+Population: 34843
+Per 1000: 2.4108142238039205",2.4108142238039205
+65,33792,14,טמרה,https://nominatim.openstreetmap.org/search.php?q=טמרה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=טמרה&format=json"">link</a>",32.8534876,35.1978748,True,"At:
 טמרה
 Sick: 14
-Population: 33792",0.00041429924242424244
-93,32089,6,סח'נין,https://nominatim.openstreetmap.org/search.php?q=סח'נין&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=סח'נין&format=json"">link</a>",32.8638052,35.3023184,True,"At:
+Population: 33792
+Per 1000: 0.41429924242424243",0.41429924242424243
+94,32089,6,סח'נין,https://nominatim.openstreetmap.org/search.php?q=סח'נין&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=סח'נין&format=json"">link</a>",32.8638052,35.3023184,True,"At:
 סח'נין
 Sick: 6
-Population: 32089",0.00018697996198074106
-60,30185,17,אופקים,https://nominatim.openstreetmap.org/search.php?q=אופקים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אופקים&format=json"">link</a>",31.3125831,34.6208537,True,"At:
+Population: 32089
+Per 1000: 0.18697996198074107",0.18697996198074107
+56,30185,21,אופקים,https://nominatim.openstreetmap.org/search.php?q=אופקים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אופקים&format=json"">link</a>",31.3125831,34.6208537,True,"At:
 אופקים
-Sick: 17
-Population: 30185",0.0005631936392247806
-25,29104,59,יהוד-מונוסון,https://nominatim.openstreetmap.org/search.php?q=יהוד-מונוסון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=יהוד-מונוסון&format=json"">link</a>",32.0331756,34.8907527,True,"At:
+Sick: 21
+Population: 30185
+Per 1000: 0.6957097896306113",0.6957097896306113
+25,29104,61,יהוד-מונוסון,https://nominatim.openstreetmap.org/search.php?q=יהוד-מונוסון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=יהוד-מונוסון&format=json"">link</a>",32.0331756,34.8907527,True,"At:
 יהוד-מונוסון
-Sick: 59
-Population: 29104",0.002027212754260583
-102,29035,4,באקה אל-גרביה,https://nominatim.openstreetmap.org/search.php?q=באקה אל-גרביה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=באקה אל-גרביה&format=json"">link</a>",0,0,False,"At:
+Sick: 61
+Population: 29104
+Per 1000: 2.095931830676196",2.095931830676196
+100,29035,5,באקה אל-גרביה,https://nominatim.openstreetmap.org/search.php?q=באקה אל-גרביה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=באקה אל-גרביה&format=json"">link</a>",0,0,False,"At:
 באקה אל-גרביה
-Sick: 4
-Population: 29035",0.00013776476666092647
-70,26763,12,ערד,https://nominatim.openstreetmap.org/search.php?q=ערד&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ערד&format=json"">link</a>",31.2612199,35.214581,True,"At:
+Sick: 5
+Population: 29035
+Per 1000: 0.17220595832615807",0.17220595832615807
+71,26763,12,ערד,https://nominatim.openstreetmap.org/search.php?q=ערד&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ערד&format=json"">link</a>",31.2612199,35.214581,True,"At:
 ערד
 Sick: 12
-Population: 26763",0.0004483802264320144
-122,26184,2,טירה,https://nominatim.openstreetmap.org/search.php?q=טירה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=טירה&format=json"">link</a>",32.2346856,34.9544553,True,"At:
+Population: 26763
+Per 1000: 0.44838022643201436",0.44838022643201436
+113,26184,3,טירה,https://nominatim.openstreetmap.org/search.php?q=טירה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=טירה&format=json"">link</a>",32.2346856,34.9544553,True,"At:
 טירה
-Sick: 2
-Population: 26184",7.638252367858234e-05
-18,26058,82,מגדל העמק,https://nominatim.openstreetmap.org/search.php?q=מגדל העמק&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מגדל העמק&format=json"">link</a>",32.6765744,35.2413237,True,"At:
+Sick: 3
+Population: 26184
+Per 1000: 0.11457378551787352",0.11457378551787352
+20,26058,84,מגדל העמק,https://nominatim.openstreetmap.org/search.php?q=מגדל העמק&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מגדל העמק&format=json"">link</a>",32.6765744,35.2413237,True,"At:
 מגדל העמק
-Sick: 82
-Population: 26058",0.0031468263105380308
-44,25891,24,שדרות,https://nominatim.openstreetmap.org/search.php?q=שדרות&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=שדרות&format=json"">link</a>",31.526474,34.5969696,True,"At:
+Sick: 84
+Population: 26058
+Per 1000: 3.2235781717706655",3.2235781717706655
+50,25891,24,שדרות,https://nominatim.openstreetmap.org/search.php?q=שדרות&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=שדרות&format=json"">link</a>",31.526474,34.5969696,True,"At:
 שדרות
 Sick: 24
-Population: 25891",0.0009269630373488858
-149,25876,1,עראבה,https://nominatim.openstreetmap.org/search.php?q=עראבה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=עראבה&format=json"">link</a>",32.8486132,35.3358268,True,"At:
+Population: 25891
+Per 1000: 0.9269630373488857",0.9269630373488857
+151,25876,1,עראבה,https://nominatim.openstreetmap.org/search.php?q=עראבה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=עראבה&format=json"">link</a>",32.8486132,35.3358268,True,"At:
 עראבה
 Sick: 1
-Population: 25876",3.86458494357706e-05
-56,24633,19,גדרה,https://nominatim.openstreetmap.org/search.php?q=גדרה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=גדרה&format=json"">link</a>",31.8117747,34.7803882,True,"At:
+Population: 25876
+Per 1000: 0.038645849435770596",0.038645849435770596
+59,24633,20,גדרה,https://nominatim.openstreetmap.org/search.php?q=גדרה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=גדרה&format=json"">link</a>",31.8117747,34.7803882,True,"At:
 גדרה
-Sick: 19
-Population: 24633",0.0007713230219624081
-43,24538,24,גבעת שמואל,https://nominatim.openstreetmap.org/search.php?q=גבעת שמואל&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=גבעת שמואל&format=json"">link</a>",32.0769463,34.8524656,True,"At:
+Sick: 20
+Population: 24633
+Per 1000: 0.8119189704867454",0.8119189704867454
+42,24538,26,גבעת שמואל,https://nominatim.openstreetmap.org/search.php?q=גבעת שמואל&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=גבעת שמואל&format=json"">link</a>",32.0769463,34.8524656,True,"At:
 גבעת שמואל
-Sick: 24
-Population: 24538",0.0009780748227239385
-61,24216,16,באר יעקב,https://nominatim.openstreetmap.org/search.php?q=באר יעקב&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=באר יעקב&format=json"">link</a>",31.9443532,34.8398648,True,"At:
+Sick: 26
+Population: 24538
+Per 1000: 1.0595810579509333",1.0595810579509333
+62,24216,16,באר יעקב,https://nominatim.openstreetmap.org/search.php?q=באר יעקב&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=באר יעקב&format=json"">link</a>",31.9443532,34.8398648,True,"At:
 באר יעקב
 Sick: 16
-Population: 24216",0.0006607201850016518
-34,23691,35,קרית מלאכי,https://nominatim.openstreetmap.org/search.php?q=קרית מלאכי&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית מלאכי&format=json"">link</a>",31.7314672,34.74348,True,"At:
+Population: 24216
+Per 1000: 0.6607201850016517",0.6607201850016517
+35,23691,36,קרית מלאכי,https://nominatim.openstreetmap.org/search.php?q=קרית מלאכי&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית מלאכי&format=json"">link</a>",31.7314672,34.74348,True,"At:
 קרית מלאכי
-Sick: 35
-Population: 23691",0.001477354269553839
-76,23093,9,מבשרת ציון,https://nominatim.openstreetmap.org/search.php?q=מבשרת ציון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מבשרת ציון&format=json"">link</a>",31.8057198,35.152731,True,"At:
+Sick: 36
+Population: 23691
+Per 1000: 1.5195643915410917",1.5195643915410917
+145,23517,1,כפר קאסם,https://nominatim.openstreetmap.org/search.php?q=כפר קאסם&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כפר קאסם&format=json"">link</a>",32.1139357,34.9760002,True,"At:
+כפר קאסם
+Sick: 1
+Population: 23517
+Per 1000: 0.04252243058213207",0.04252243058213207
+77,23093,10,מבשרת ציון,https://nominatim.openstreetmap.org/search.php?q=מבשרת ציון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מבשרת ציון&format=json"">link</a>",31.8057198,35.152731,True,"At:
 מבשרת ציון
-Sick: 9
-Population: 23093",0.00038972848915255705
-151,22740,1,קלנסווה,https://nominatim.openstreetmap.org/search.php?q=קלנסווה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קלנסווה&format=json"">link</a>",32.2848603,34.9801701,True,"At:
+Sick: 10
+Population: 23093
+Per 1000: 0.4330316546139523",0.4330316546139523
+153,22740,1,קלנסווה,https://nominatim.openstreetmap.org/search.php?q=קלנסווה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קלנסווה&format=json"">link</a>",32.2848603,34.9801701,True,"At:
 קלנסווה
 Sick: 1
-Population: 22740",4.397537379067722e-05
-74,22711,10,יקנעם עילית,https://nominatim.openstreetmap.org/search.php?q=יקנעם עילית&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=יקנעם עילית&format=json"">link</a>",32.655224849999996,35.09980553528567,True,"At:
+Population: 22740
+Per 1000: 0.04397537379067722",0.04397537379067722
+72,22711,11,יקנעם עילית,https://nominatim.openstreetmap.org/search.php?q=יקנעם עילית&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=יקנעם עילית&format=json"">link</a>",32.655224849999996,35.09980553528567,True,"At:
 יקנעם עילית
-Sick: 10
-Population: 22711",0.00044031526573026287
-123,22449,2,כפר כנא,https://nominatim.openstreetmap.org/search.php?q=כפר כנא&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כפר כנא&format=json"">link</a>",32.7449001,35.3437869,True,"At:
+Sick: 11
+Population: 22711
+Per 1000: 0.48434679230328914",0.48434679230328914
+126,22449,2,כפר כנא,https://nominatim.openstreetmap.org/search.php?q=כפר כנא&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כפר כנא&format=json"">link</a>",32.7449001,35.3437869,True,"At:
 כפר כנא
 Sick: 2
-Population: 22449",8.909082809924718e-05
-49,22410,21,גן יבנה,https://nominatim.openstreetmap.org/search.php?q=גן יבנה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=גן יבנה&format=json"">link</a>",31.787109,34.7096635,True,"At:
+Population: 22449
+Per 1000: 0.08909082809924718",0.08909082809924718
+52,22410,22,גן יבנה,https://nominatim.openstreetmap.org/search.php?q=גן יבנה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=גן יבנה&format=json"">link</a>",31.787109,34.7096635,True,"At:
 גן יבנה
-Sick: 21
-Population: 22410",0.0009370816599732262
-84,22364,7,מגאר,https://nominatim.openstreetmap.org/search.php?q=מגאר&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מגאר&format=json"">link</a>",38.6115892,47.4479834,True,"At:
+Sick: 22
+Population: 22410
+Per 1000: 0.9817045961624274",0.9817045961624274
+89,22364,7,מגאר,https://nominatim.openstreetmap.org/search.php?q=מגאר&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מגאר&format=json"">link</a>",38.6115892,47.4479834,True,"At:
 מגאר
 Sick: 7
-Population: 22364",0.00031300304060096585
-46,22341,22,זכרון יעקב,https://nominatim.openstreetmap.org/search.php?q=זכרון יעקב&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=זכרון יעקב&format=json"">link</a>",32.5711587,34.9529966,True,"At:
+Population: 22364
+Per 1000: 0.31300304060096584",0.31300304060096584
+54,22341,22,זכרון יעקב,https://nominatim.openstreetmap.org/search.php?q=זכרון יעקב&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=זכרון יעקב&format=json"">link</a>",32.5711587,34.9529966,True,"At:
 זכרון יעקב
 Sick: 22
-Population: 22341",0.0009847365829640572
-77,22261,9,מעלות-תרשיחא,https://nominatim.openstreetmap.org/search.php?q=מעלות-תרשיחא&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מעלות-תרשיחא&format=json"">link</a>",33.0157394,35.2759666,True,"At:
+Population: 22341
+Per 1000: 0.9847365829640572",0.9847365829640572
+80,22261,9,מעלות-תרשיחא,https://nominatim.openstreetmap.org/search.php?q=מעלות-תרשיחא&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מעלות-תרשיחא&format=json"">link</a>",33.0157394,35.2759666,True,"At:
 מעלות-תרשיחא
 Sick: 9
-Population: 22261",0.0004042945060868784
-66,22243,13,טירת כרמל,https://nominatim.openstreetmap.org/search.php?q=טירת כרמל&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=טירת כרמל&format=json"">link</a>",32.7613834,34.9715506,True,"At:
+Population: 22261
+Per 1000: 0.4042945060868784",0.4042945060868784
+68,22243,13,טירת כרמל,https://nominatim.openstreetmap.org/search.php?q=טירת כרמל&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=טירת כרמל&format=json"">link</a>",32.7613834,34.9715506,True,"At:
 טירת כרמל
 Sick: 13
-Population: 22243",0.0005844535359438924
-78,22152,9,קרית שמונה,https://nominatim.openstreetmap.org/search.php?q=קרית שמונה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית שמונה&format=json"">link</a>",33.2074733,35.5707828,True,"At:
+Population: 22243
+Per 1000: 0.5844535359438924",0.5844535359438924
+83,22152,9,קרית שמונה,https://nominatim.openstreetmap.org/search.php?q=קרית שמונה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית שמונה&format=json"">link</a>",33.2074733,35.5707828,True,"At:
 קרית שמונה
 Sick: 9
-Population: 22152",0.00040628385698808235
-99,22032,5,נשר,https://nominatim.openstreetmap.org/search.php?q=נשר&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=נשר&format=json"">link</a>",32.7708797,35.0381249,True,"At:
+Population: 22152
+Per 1000: 0.40628385698808234",0.40628385698808234
+102,22032,5,נשר,https://nominatim.openstreetmap.org/search.php?q=נשר&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=נשר&format=json"">link</a>",32.7708797,35.0381249,True,"At:
 נשר
 Sick: 5
-Population: 22032",0.00022694262890341323
-68,21301,12,כפר יונה,https://nominatim.openstreetmap.org/search.php?q=כפר יונה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כפר יונה&format=json"">link</a>",32.314504,34.9321169,True,"At:
+Population: 22032
+Per 1000: 0.22694262890341324",0.22694262890341324
+66,21301,14,כפר יונה,https://nominatim.openstreetmap.org/search.php?q=כפר יונה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כפר יונה&format=json"">link</a>",32.314504,34.9321169,True,"At:
 כפר יונה
-Sick: 12
-Population: 21301",0.0005633538331533731
-71,20831,11,קדימה-צורן,https://nominatim.openstreetmap.org/search.php?q=קדימה-צורן&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קדימה-צורן&format=json"">link</a>",32.281965650000004,34.91045479199278,True,"At:
+Sick: 14
+Population: 21301
+Per 1000: 0.6572461386789353",0.6572461386789353
+73,20831,11,קדימה-צורן,https://nominatim.openstreetmap.org/search.php?q=קדימה-צורן&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קדימה-צורן&format=json"">link</a>",32.281965650000004,34.91045479199278,True,"At:
 קדימה-צורן
 Sick: 11
-Population: 20831",0.0005280591426239739
-120,20524,2,ג'דיידה-מכר,https://nominatim.openstreetmap.org/search.php?q=ג'דיידה-מכר&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ג'דיידה-מכר&format=json"">link</a>",32.9295224,35.1467427,True,"At:
+Population: 20831
+Per 1000: 0.5280591426239739",0.5280591426239739
+123,20524,2,ג'דיידה-מכר,https://nominatim.openstreetmap.org/search.php?q=ג'דיידה-מכר&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ג'דיידה-מכר&format=json"">link</a>",32.9295224,35.1467427,True,"At:
 ג'דיידה-מכר
 Sick: 2
-Population: 20524",9.744689144416293e-05
-42,20041,25,שוהם,https://nominatim.openstreetmap.org/search.php?q=שוהם&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=שוהם&format=json"">link</a>",32.0004845,34.9465419,True,"At:
+Population: 20524
+Per 1000: 0.09744689144416292",0.09744689144416292
+40,20041,28,שוהם,https://nominatim.openstreetmap.org/search.php?q=שוהם&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=שוהם&format=json"">link</a>",32.0004845,34.9465419,True,"At:
 שוהם
-Sick: 25
-Population: 20041",0.0012474427423781248
-152,19850,1,תל שבע,https://nominatim.openstreetmap.org/search.php?q=תל שבע&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=תל שבע&format=json"">link</a>",31.2456487,34.8577683,True,"At:
+Sick: 28
+Population: 20041
+Per 1000: 1.3971358714634998",1.3971358714634998
+154,19850,1,תל שבע,https://nominatim.openstreetmap.org/search.php?q=תל שבע&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=תל שבע&format=json"">link</a>",31.2456487,34.8577683,True,"At:
 תל שבע
 Sick: 1
-Population: 19850",5.0377833753148616e-05
-113,19056,3,יפיע,https://nominatim.openstreetmap.org/search.php?q=יפיע&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=יפיע&format=json"">link</a>",32.6854269,35.2789052,True,"At:
+Population: 19850
+Per 1000: 0.05037783375314862",0.05037783375314862
+114,19056,3,יפיע,https://nominatim.openstreetmap.org/search.php?q=יפיע&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=יפיע&format=json"">link</a>",32.6854269,35.2789052,True,"At:
 יפיע
 Sick: 3
-Population: 19056",0.00015743073047858942
-45,18930,23,גני תקווה,https://nominatim.openstreetmap.org/search.php?q=גני תקווה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=גני תקווה&format=json"">link</a>",32.0604256,34.8760954,True,"At:
+Population: 19056
+Per 1000: 0.1574307304785894",0.1574307304785894
+46,18930,24,גני תקווה,https://nominatim.openstreetmap.org/search.php?q=גני תקווה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=גני תקווה&format=json"">link</a>",32.0604256,34.8760954,True,"At:
 גני תקווה
-Sick: 23
-Population: 18930",0.0012150026413100899
-108,18893,3,אור עקיבא,https://nominatim.openstreetmap.org/search.php?q=אור עקיבא&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אור עקיבא&format=json"">link</a>",32.5090151,34.9195677,True,"At:
+Sick: 24
+Population: 18930
+Per 1000: 1.2678288431061806",1.2678288431061806
+111,18893,3,אור עקיבא,https://nominatim.openstreetmap.org/search.php?q=אור עקיבא&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אור עקיבא&format=json"">link</a>",32.5090151,34.9195677,True,"At:
 אור עקיבא
 Sick: 3
-Population: 18893",0.0001587889694595882
-124,18820,2,כפר קרע,https://nominatim.openstreetmap.org/search.php?q=כפר קרע&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כפר קרע&format=json"">link</a>",32.5029914,35.0504995,True,"At:
+Population: 18893
+Per 1000: 0.1587889694595882",0.1587889694595882
+127,18820,2,כפר קרע,https://nominatim.openstreetmap.org/search.php?q=כפר קרע&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כפר קרע&format=json"">link</a>",32.5029914,35.0504995,True,"At:
 כפר קרע
 Sick: 2
-Population: 18820",0.00010626992561105207
-63,18510,14,גבעת זאב,https://nominatim.openstreetmap.org/search.php?q=גבעת זאב&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=גבעת זאב&format=json"">link</a>",31.8623329,35.1687498,True,"At:
+Population: 18820
+Per 1000: 0.10626992561105207",0.10626992561105207
+64,18510,15,גבעת זאב,https://nominatim.openstreetmap.org/search.php?q=גבעת זאב&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=גבעת זאב&format=json"">link</a>",31.8623329,35.1687498,True,"At:
 גבעת זאב
-Sick: 14
-Population: 18510",0.0007563479200432199
-101,18251,4,אריאל,https://nominatim.openstreetmap.org/search.php?q=אריאל&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אריאל&format=json"">link</a>",32.1060817,35.1851368,True,"At:
+Sick: 15
+Population: 18510
+Per 1000: 0.8103727714748784",0.8103727714748784
+106,18251,4,אריאל,https://nominatim.openstreetmap.org/search.php?q=אריאל&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אריאל&format=json"">link</a>",32.1060817,35.1851368,True,"At:
 אריאל
 Sick: 4
-Population: 18251",0.00021916607309188538
-90,16957,6,כסיפה,https://nominatim.openstreetmap.org/search.php?q=כסיפה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כסיפה&format=json"">link</a>",31.2465374,35.0930574,True,"At:
+Population: 18251
+Per 1000: 0.21916607309188538",0.21916607309188538
+88,16957,7,כסיפה,https://nominatim.openstreetmap.org/search.php?q=כסיפה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כסיפה&format=json"">link</a>",31.2465374,35.0930574,True,"At:
 כסיפה
-Sick: 6
-Population: 16957",0.00035383617385150676
-145,16644,1,מסעודין אל-עזאזמה,https://nominatim.openstreetmap.org/search.php?q=מסעודין אל-עזאזמה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מסעודין אל-עזאזמה&format=json"">link</a>",0,0,False,"At:
+Sick: 7
+Population: 16957
+Per 1000: 0.41280886949342455",0.41280886949342455
+147,16644,1,מסעודין אל-עזאזמה,https://nominatim.openstreetmap.org/search.php?q=מסעודין אל-עזאזמה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מסעודין אל-עזאזמה&format=json"">link</a>",0,0,False,"At:
 מסעודין אל-עזאזמה
 Sick: 1
-Population: 16644",6.00817111271329e-05
-127,15831,2,קרית טבעון,https://nominatim.openstreetmap.org/search.php?q=קרית טבעון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית טבעון&format=json"">link</a>",32.70818545,35.13072176699177,True,"At:
+Population: 16644
+Per 1000: 0.0600817111271329",0.0600817111271329
+130,15831,2,קרית טבעון,https://nominatim.openstreetmap.org/search.php?q=קרית טבעון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית טבעון&format=json"">link</a>",32.70818545,35.13072176699177,True,"At:
 קרית טבעון
 Sick: 2
-Population: 15831",0.00012633440717579433
-92,14949,6,מזכרת בתיה,https://nominatim.openstreetmap.org/search.php?q=מזכרת בתיה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מזכרת בתיה&format=json"">link</a>",31.8514378,34.8411635,True,"At:
+Population: 15831
+Per 1000: 0.12633440717579433",0.12633440717579433
+90,14949,7,מזכרת בתיה,https://nominatim.openstreetmap.org/search.php?q=מזכרת בתיה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מזכרת בתיה&format=json"">link</a>",31.8514378,34.8411635,True,"At:
 מזכרת בתיה
-Sick: 6
-Population: 14949",0.0004013646397752358
-114,14861,3,מעלה עירון,https://nominatim.openstreetmap.org/search.php?q=מעלה עירון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מעלה עירון&format=json"">link</a>",32.5494975,35.15448566167521,True,"At:
+Sick: 7
+Population: 14949
+Per 1000: 0.46825874640444176",0.46825874640444176
+115,14861,3,מעלה עירון,https://nominatim.openstreetmap.org/search.php?q=מעלה עירון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מעלה עירון&format=json"">link</a>",32.5494975,35.15448566167521,True,"At:
 מעלה עירון
 Sick: 3
-Population: 14861",0.0002018706681919117
-111,14732,3,ג'סר א-זרקא,https://nominatim.openstreetmap.org/search.php?q=ג'סר א-זרקא&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ג'סר א-זרקא&format=json"">link</a>",32.5375618,34.9132199,True,"At:
+Population: 14861
+Per 1000: 0.2018706681919117",0.2018706681919117
+76,14732,10,ג'סר א-זרקא,https://nominatim.openstreetmap.org/search.php?q=ג'סר א-זרקא&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ג'סר א-זרקא&format=json"">link</a>",32.5375618,34.9132199,True,"At:
 ג'סר א-זרקא
-Sick: 3
-Population: 14732",0.00020363833831115938
-109,14655,3,אכסאל,https://nominatim.openstreetmap.org/search.php?q=אכסאל&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אכסאל&format=json"">link</a>",32.6815837,35.3239769,True,"At:
+Sick: 10
+Population: 14732
+Per 1000: 0.6787944610371979",0.6787944610371979
+105,14655,4,אכסאל,https://nominatim.openstreetmap.org/search.php?q=אכסאל&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אכסאל&format=json"">link</a>",32.6815837,35.3239769,True,"At:
 אכסאל
-Sick: 3
-Population: 14655",0.00020470829068577277
-133,14383,1,בנימינה-גבעת עדה,https://nominatim.openstreetmap.org/search.php?q=בנימינה-גבעת עדה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בנימינה-גבעת עדה&format=json"">link</a>",32.52568875,34.959703819638506,True,"At:
+Sick: 4
+Population: 14655
+Per 1000: 0.2729443875810304",0.2729443875810304
+120,14383,2,בנימינה-גבעת עדה,https://nominatim.openstreetmap.org/search.php?q=בנימינה-גבעת עדה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בנימינה-גבעת עדה&format=json"">link</a>",32.52568875,34.959703819638506,True,"At:
 בנימינה-גבעת עדה
-Sick: 1
-Population: 14383",6.952652436904678e-05
-48,13263,21,אבן יהודה,https://nominatim.openstreetmap.org/search.php?q=אבן יהודה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אבן יהודה&format=json"">link</a>",32.2724852,34.886767,True,"At:
+Sick: 2
+Population: 14383
+Per 1000: 0.13905304873809357",0.13905304873809357
+51,13263,23,אבן יהודה,https://nominatim.openstreetmap.org/search.php?q=אבן יהודה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אבן יהודה&format=json"">link</a>",32.2724852,34.886767,True,"At:
 אבן יהודה
-Sick: 21
-Population: 13263",0.0015833521827640805
-146,13167,1,נחף,https://nominatim.openstreetmap.org/search.php?q=נחף&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=נחף&format=json"">link</a>",32.9345686,35.31763,True,"At:
+Sick: 23
+Population: 13263
+Per 1000: 1.734147628741612",1.734147628741612
+148,13167,1,נחף,https://nominatim.openstreetmap.org/search.php?q=נחף&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=נחף&format=json"">link</a>",32.9345686,35.31763,True,"At:
 נחף
 Sick: 1
-Population: 13167",7.5947444368497e-05
-67,12593,13,תל מונד,https://nominatim.openstreetmap.org/search.php?q=תל מונד&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=תל מונד&format=json"">link</a>",32.2536471,34.9185387,True,"At:
+Population: 13167
+Per 1000: 0.075947444368497",0.075947444368497
+70,12593,13,תל מונד,https://nominatim.openstreetmap.org/search.php?q=תל מונד&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=תל מונד&format=json"">link</a>",32.2536471,34.9185387,True,"At:
 תל מונד
 Sick: 13
-Population: 12593",0.0010323195426030333
-137,12435,1,דייר אל-אסד,https://nominatim.openstreetmap.org/search.php?q=דייר אל-אסד&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=דייר אל-אסד&format=json"">link</a>",0,0,False,"At:
+Population: 12593
+Per 1000: 1.0323195426030334",1.0323195426030334
+139,12435,1,דייר אל-אסד,https://nominatim.openstreetmap.org/search.php?q=דייר אל-אסד&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=דייר אל-אסד&format=json"">link</a>",0,0,False,"At:
 דייר אל-אסד
 Sick: 1
-Population: 12435",8.041817450743868e-05
-148,12141,1,עספיא,https://nominatim.openstreetmap.org/search.php?q=עספיא&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=עספיא&format=json"">link</a>",0,0,False,"At:
+Population: 12435
+Per 1000: 0.08041817450743868",0.08041817450743868
+150,12141,1,עספיא,https://nominatim.openstreetmap.org/search.php?q=עספיא&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=עספיא&format=json"">link</a>",0,0,False,"At:
 עספיא
 Sick: 1
-Population: 12141",8.236553825879252e-05
-88,11910,6,ג'ת,https://nominatim.openstreetmap.org/search.php?q=ג'ת&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ג'ת&format=json"">link</a>",32.3293809,-83.1137366,True,"At:
+Population: 12141
+Per 1000: 0.08236553825879252",0.08236553825879252
+87,11910,7,ג'ת,https://nominatim.openstreetmap.org/search.php?q=ג'ת&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ג'ת&format=json"">link</a>",32.3293809,-83.1137366,True,"At:
 ג'ת
-Sick: 6
-Population: 11910",0.0005037783375314861
-55,11841,20,רכסים,https://nominatim.openstreetmap.org/search.php?q=רכסים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=רכסים&format=json"">link</a>",32.7509558,35.1013589,True,"At:
+Sick: 7
+Population: 11910
+Per 1000: 0.5877413937867338",0.5877413937867338
+41,11841,27,רכסים,https://nominatim.openstreetmap.org/search.php?q=רכסים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=רכסים&format=json"">link</a>",32.7509558,35.1013589,True,"At:
 רכסים
-Sick: 20
-Population: 11841",0.0016890465332319905
-53,11819,20,אזור,https://nominatim.openstreetmap.org/search.php?q=אזור&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אזור&format=json"">link</a>",32.0282087,34.802593,True,"At:
+Sick: 27
+Population: 11841
+Per 1000: 2.2802128198631872",2.2802128198631872
+57,11819,21,אזור,https://nominatim.openstreetmap.org/search.php?q=אזור&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אזור&format=json"">link</a>",32.0282087,34.802593,True,"At:
 אזור
-Sick: 20
-Population: 11819",0.0016921905406548777
-144,11089,1,מג'דל שמס,https://nominatim.openstreetmap.org/search.php?q=מג'דל שמס&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מג'דל שמס&format=json"">link</a>",33.2684288,35.769371,True,"At:
+Sick: 21
+Population: 11819
+Per 1000: 1.7768000676876217",1.7768000676876217
+146,11089,1,מג'דל שמס,https://nominatim.openstreetmap.org/search.php?q=מג'דל שמס&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מג'דל שמס&format=json"">link</a>",33.2684288,35.769371,True,"At:
 מג'דל שמס
 Sick: 1
-Population: 11089",9.017945711966815e-05
+Population: 11089
+Per 1000: 0.09017945711966814",0.09017945711966814
 24,10676,61,אפרת,https://nominatim.openstreetmap.org/search.php?q=אפרת&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אפרת&format=json"">link</a>",31.6536462,35.1508714,True,"At:
 אפרת
 Sick: 61
-Population: 10676",0.005713750468340203
-106,10600,4,קרית עקרון,https://nominatim.openstreetmap.org/search.php?q=קרית עקרון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית עקרון&format=json"">link</a>",31.8607858,34.823337,True,"At:
+Population: 10676
+Per 1000: 5.713750468340202",5.713750468340202
+97,10600,6,קרית עקרון,https://nominatim.openstreetmap.org/search.php?q=קרית עקרון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית עקרון&format=json"">link</a>",31.8607858,34.823337,True,"At:
 קרית עקרון
-Sick: 4
-Population: 10600",0.0003773584905660377
-143,10577,1,כפר יאסיף,https://nominatim.openstreetmap.org/search.php?q=כפר יאסיף&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כפר יאסיף&format=json"">link</a>",32.9533067,35.165698,True,"At:
+Sick: 6
+Population: 10600
+Per 1000: 0.5660377358490566",0.5660377358490566
+144,10577,1,כפר יאסיף,https://nominatim.openstreetmap.org/search.php?q=כפר יאסיף&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כפר יאסיף&format=json"">link</a>",32.9533067,35.165698,True,"At:
 כפר יאסיף
 Sick: 1
-Population: 10577",9.454476694714947e-05
-89,10567,6,דייר חנא,https://nominatim.openstreetmap.org/search.php?q=דייר חנא&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=דייר חנא&format=json"">link</a>",32.767822,35.250779,True,"At:
+Population: 10577
+Per 1000: 0.09454476694714947",0.09454476694714947
+92,10567,6,דייר חנא,https://nominatim.openstreetmap.org/search.php?q=דייר חנא&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=דייר חנא&format=json"">link</a>",32.767822,35.250779,True,"At:
 דייר חנא
 Sick: 6
-Population: 10567",0.0005678054320052995
-118,10532,2,"בסמ""ה","https://nominatim.openstreetmap.org/search.php?q=בסמ""ה&format=json","<a href=""https://nominatim.openstreetmap.org/search.php?q=בסמ""ה&format=json"">link</a>",32.53230915,35.104832753720274,True,"At:
+Population: 10567
+Per 1000: 0.5678054320052995",0.5678054320052995
+121,10532,2,"בסמ""ה","https://nominatim.openstreetmap.org/search.php?q=בסמ""ה&format=json","<a href=""https://nominatim.openstreetmap.org/search.php?q=בסמ""ה&format=json"">link</a>",32.53230915,35.104832753720274,True,"At:
 בסמ""ה
 Sick: 2
-Population: 10532",0.00018989745537409798
-83,10414,7,דבוריה,https://nominatim.openstreetmap.org/search.php?q=דבוריה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=דבוריה&format=json"">link</a>",32.6927785,35.3716044,True,"At:
+Population: 10532
+Per 1000: 0.189897455374098",0.189897455374098
+67,10414,13,דבוריה,https://nominatim.openstreetmap.org/search.php?q=דבוריה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=דבוריה&format=json"">link</a>",32.6927785,35.3716044,True,"At:
 דבוריה
-Sick: 7
-Population: 10414",0.0006721720760514692
-141,10126,1,ירוחם,https://nominatim.openstreetmap.org/search.php?q=ירוחם&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ירוחם&format=json"">link</a>",30.9888033,34.9250975,True,"At:
+Sick: 13
+Population: 10414
+Per 1000: 1.2483195698098712",1.2483195698098712
+143,10126,1,ירוחם,https://nominatim.openstreetmap.org/search.php?q=ירוחם&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ירוחם&format=json"">link</a>",30.9888033,34.9250975,True,"At:
 ירוחם
 Sick: 1
-Population: 10126",9.875567845151097e-05
-136,10011,1,ג'לג'וליה,https://nominatim.openstreetmap.org/search.php?q=ג'לג'וליה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ג'לג'וליה&format=json"">link</a>",32.149177800000004,34.94175420560542,True,"At:
+Population: 10126
+Per 1000: 0.09875567845151097",0.09875567845151097
+138,10011,1,ג'לג'וליה,https://nominatim.openstreetmap.org/search.php?q=ג'לג'וליה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ג'לג'וליה&format=json"">link</a>",32.149177800000004,34.94175420560542,True,"At:
 ג'לג'וליה
 Sick: 1
-Population: 10011",9.989012086704625e-05
-98,9866,5,ביר אל-מכסור,https://nominatim.openstreetmap.org/search.php?q=ביר אל-מכסור&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ביר אל-מכסור&format=json"">link</a>",32.7756653,35.2216911,True,"At:
+Population: 10011
+Per 1000: 0.09989012086704625",0.09989012086704625
+135,9974,1,בועיינה-נוג'ידאת,https://nominatim.openstreetmap.org/search.php?q=בועיינה-נוג'ידאת&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בועיינה-נוג'ידאת&format=json"">link</a>",32.8056259,35.3646736,True,"At:
+בועיינה-נוג'ידאת
+Sick: 1
+Population: 9974
+Per 1000: 0.10026067776218167",0.10026067776218167
+101,9866,5,ביר אל-מכסור,https://nominatim.openstreetmap.org/search.php?q=ביר אל-מכסור&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ביר אל-מכסור&format=json"">link</a>",32.7756653,35.2216911,True,"At:
 ביר אל-מכסור
 Sick: 5
-Population: 9866",0.0005067909993918508
-80,9143,8,כוכב יאיר,https://nominatim.openstreetmap.org/search.php?q=כוכב יאיר&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כוכב יאיר&format=json"">link</a>",32.22014095,34.994418065862405,True,"At:
+Population: 9866
+Per 1000: 0.5067909993918508",0.5067909993918508
+85,9143,8,כוכב יאיר,https://nominatim.openstreetmap.org/search.php?q=כוכב יאיר&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כוכב יאיר&format=json"">link</a>",32.22014095,34.994418065862405,True,"At:
 כוכב יאיר
 Sick: 8
-Population: 9143",0.0008749863283386198
-125,9043,2,מיתר,https://nominatim.openstreetmap.org/search.php?q=מיתר&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מיתר&format=json"">link</a>",31.3270854,34.9384389,True,"At:
+Population: 9143
+Per 1000: 0.8749863283386198",0.8749863283386198
+128,9043,2,מיתר,https://nominatim.openstreetmap.org/search.php?q=מיתר&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=מיתר&format=json"">link</a>",31.3270854,34.9384389,True,"At:
 מיתר
 Sick: 2
-Population: 9043",0.00022116554240849277
-132,8822,1,אורנית,https://nominatim.openstreetmap.org/search.php?q=אורנית&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אורנית&format=json"">link</a>",32.1309209,34.9919607,True,"At:
+Population: 9043
+Per 1000: 0.22116554240849276",0.22116554240849276
+117,8822,2,אורנית,https://nominatim.openstreetmap.org/search.php?q=אורנית&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אורנית&format=json"">link</a>",32.1309209,34.9919607,True,"At:
 אורנית
-Sick: 1
-Population: 8822",0.00011335298118340512
-112,8737,3,חריש,https://nominatim.openstreetmap.org/search.php?q=חריש&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=חריש&format=json"">link</a>",32.4616062,35.0446899,True,"At:
+Sick: 2
+Population: 8822
+Per 1000: 0.22670596236681023",0.22670596236681023
+109,8737,4,חריש,https://nominatim.openstreetmap.org/search.php?q=חריש&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=חריש&format=json"">link</a>",32.4616062,35.0446899,True,"At:
 חריש
-Sick: 3
-Population: 8737",0.00034336728854297816
-35,8602,32,כוכב יעקב,https://nominatim.openstreetmap.org/search.php?q=כוכב יעקב&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כוכב יעקב&format=json"">link</a>",31.8814286,35.2452887,True,"At:
+Sick: 4
+Population: 8737
+Per 1000: 0.4578230513906375",0.4578230513906375
+34,8602,36,כוכב יעקב,https://nominatim.openstreetmap.org/search.php?q=כוכב יעקב&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כוכב יעקב&format=json"">link</a>",31.8814286,35.2452887,True,"At:
 כוכב יעקב
-Sick: 32
-Population: 8602",0.00372006510113927
-131,8446,1,אבו רובייעה )שבט(,https://nominatim.openstreetmap.org/search.php?q=אבו רובייעה )שבט(&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אבו רובייעה )שבט(&format=json"">link</a>",0,0,False,"At:
+Sick: 36
+Population: 8602
+Per 1000: 4.185073238781679",4.185073238781679
+134,8446,1,אבו רובייעה )שבט(,https://nominatim.openstreetmap.org/search.php?q=אבו רובייעה )שבט(&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אבו רובייעה )שבט(&format=json"">link</a>",0,0,False,"At:
 אבו רובייעה )שבט(
 Sick: 1
-Population: 8446",0.00011839924224484963
-134,8355,1,בענה,https://nominatim.openstreetmap.org/search.php?q=בענה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בענה&format=json"">link</a>",32.92773,35.2711176,True,"At:
+Population: 8446
+Per 1000: 0.11839924224484963",0.11839924224484963
+136,8355,1,בענה,https://nominatim.openstreetmap.org/search.php?q=בענה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בענה&format=json"">link</a>",32.92773,35.2711176,True,"At:
 בענה
 Sick: 1
-Population: 8355",0.00011968880909634949
-75,8016,10,עומר,https://nominatim.openstreetmap.org/search.php?q=עומר&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=עומר&format=json"">link</a>",31.2659365,34.847616,True,"At:
+Population: 8355
+Per 1000: 0.11968880909634949",0.11968880909634949
+78,8016,10,עומר,https://nominatim.openstreetmap.org/search.php?q=עומר&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=עומר&format=json"">link</a>",31.2659365,34.847616,True,"At:
 עומר
 Sick: 10
-Population: 8016",0.00124750499001996
-96,7906,6,קרני שומרון,https://nominatim.openstreetmap.org/search.php?q=קרני שומרון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרני שומרון&format=json"">link</a>",32.1714785,35.0980763,True,"At:
+Population: 8016
+Per 1000: 1.2475049900199602",1.2475049900199602
+98,7906,6,קרני שומרון,https://nominatim.openstreetmap.org/search.php?q=קרני שומרון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרני שומרון&format=json"">link</a>",32.1714785,35.0980763,True,"At:
 קרני שומרון
 Sick: 6
-Population: 7906",0.0007589172780166962
-105,7856,4,צור הדסה,https://nominatim.openstreetmap.org/search.php?q=צור הדסה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=צור הדסה&format=json"">link</a>",31.7156945,35.0948306,True,"At:
+Population: 7906
+Per 1000: 0.7589172780166962",0.7589172780166962
+110,7856,4,צור הדסה,https://nominatim.openstreetmap.org/search.php?q=צור הדסה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=צור הדסה&format=json"">link</a>",31.7156945,35.0948306,True,"At:
 צור הדסה
 Sick: 4
-Population: 7856",0.0005091649694501018
-119,7833,2,בסמת טבעון,https://nominatim.openstreetmap.org/search.php?q=בסמת טבעון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בסמת טבעון&format=json"">link</a>",32.7362276,35.1546502,True,"At:
+Population: 7856
+Per 1000: 0.5091649694501018",0.5091649694501018
+122,7833,2,בסמת טבעון,https://nominatim.openstreetmap.org/search.php?q=בסמת טבעון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בסמת טבעון&format=json"">link</a>",32.7362276,35.1546502,True,"At:
 בסמת טבעון
 Sick: 2
-Population: 7833",0.00025533001404315077
-130,7792,1,אבו גוש,https://nominatim.openstreetmap.org/search.php?q=אבו גוש&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אבו גוש&format=json"">link</a>",31.806353,35.1088651,True,"At:
+Population: 7833
+Per 1000: 0.25533001404315075",0.25533001404315075
+133,7792,1,אבו גוש,https://nominatim.openstreetmap.org/search.php?q=אבו גוש&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אבו גוש&format=json"">link</a>",31.806353,35.1088651,True,"At:
 אבו גוש
 Sick: 1
-Population: 7792",0.00012833675564681725
-97,7771,5,אלפי מנשה,https://nominatim.openstreetmap.org/search.php?q=אלפי מנשה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אלפי מנשה&format=json"">link</a>",32.1730798,35.0158426,True,"At:
+Population: 7792
+Per 1000: 0.12833675564681726",0.12833675564681726
+99,7771,5,אלפי מנשה,https://nominatim.openstreetmap.org/search.php?q=אלפי מנשה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=אלפי מנשה&format=json"">link</a>",32.1730798,35.0158426,True,"At:
 אלפי מנשה
 Sick: 5
-Population: 7771",0.0006434178355424012
-126,7442,2,עתלית,https://nominatim.openstreetmap.org/search.php?q=עתלית&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=עתלית&format=json"">link</a>",32.690712,34.9422744,True,"At:
+Population: 7771
+Per 1000: 0.6434178355424012",0.6434178355424012
+129,7442,2,עתלית,https://nominatim.openstreetmap.org/search.php?q=עתלית&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=עתלית&format=json"">link</a>",32.690712,34.9422744,True,"At:
 עתלית
 Sick: 2
-Population: 7442",0.0002687449610319806
-82,7373,8,קצרין,https://nominatim.openstreetmap.org/search.php?q=קצרין&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קצרין&format=json"">link</a>",32.9920262,35.6877004,True,"At:
+Population: 7442
+Per 1000: 0.26874496103198064",0.26874496103198064
+82,7373,9,קצרין,https://nominatim.openstreetmap.org/search.php?q=קצרין&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קצרין&format=json"">link</a>",32.9920262,35.6877004,True,"At:
 קצרין
-Sick: 8
-Population: 7373",0.0010850400108504
-72,7364,11,קרית ארבע,https://nominatim.openstreetmap.org/search.php?q=קרית ארבע&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית ארבע&format=json"">link</a>",31.5277619,35.1191651,True,"At:
+Sick: 9
+Population: 7373
+Per 1000: 1.2206700122067002",1.2206700122067002
+74,7364,11,קרית ארבע,https://nominatim.openstreetmap.org/search.php?q=קרית ארבע&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית ארבע&format=json"">link</a>",31.5277619,35.1191651,True,"At:
 קרית ארבע
 Sick: 11
-Population: 7364",0.0014937533948940792
-128,7236,2,רמת ישי,https://nominatim.openstreetmap.org/search.php?q=רמת ישי&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=רמת ישי&format=json"">link</a>",32.701698,35.1668263,True,"At:
+Population: 7364
+Per 1000: 1.4937533948940793",1.4937533948940793
+131,7236,2,רמת ישי,https://nominatim.openstreetmap.org/search.php?q=רמת ישי&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=רמת ישי&format=json"">link</a>",32.701698,35.1668263,True,"At:
 רמת ישי
 Sick: 2
-Population: 7236",0.0002763957987838585
-138,6926,1,זמר,https://nominatim.openstreetmap.org/search.php?q=זמר&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=זמר&format=json"">link</a>",32.36220995,35.03251314416771,True,"At:
+Population: 7236
+Per 1000: 0.27639579878385845",0.27639579878385845
+140,6926,1,זמר,https://nominatim.openstreetmap.org/search.php?q=זמר&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=זמר&format=json"">link</a>",32.36220995,35.03251314416771,True,"At:
 זמר
 Sick: 1
-Population: 6926",0.00014438348252959862
-103,6837,4,"בני עי""ש","https://nominatim.openstreetmap.org/search.php?q=בני עי""ש&format=json","<a href=""https://nominatim.openstreetmap.org/search.php?q=בני עי""ש&format=json"">link</a>",31.7891954,34.7605995,True,"At:
+Population: 6926
+Per 1000: 0.14438348252959862",0.14438348252959862
+107,6837,4,"בני עי""ש","https://nominatim.openstreetmap.org/search.php?q=בני עי""ש&format=json","<a href=""https://nominatim.openstreetmap.org/search.php?q=בני עי""ש&format=json"">link</a>",31.7891954,34.7605995,True,"At:
 בני עי""ש
 Sick: 4
-Population: 6837",0.000585051923358198
-29,6724,39,"כפר חב""ד","https://nominatim.openstreetmap.org/search.php?q=כפר חב""ד&format=json","<a href=""https://nominatim.openstreetmap.org/search.php?q=כפר חב""ד&format=json"">link</a>",31.9907676,34.849123,True,"At:
+Population: 6837
+Per 1000: 0.585051923358198",0.585051923358198
+30,6724,41,"כפר חב""ד","https://nominatim.openstreetmap.org/search.php?q=כפר חב""ד&format=json","<a href=""https://nominatim.openstreetmap.org/search.php?q=כפר חב""ד&format=json"">link</a>",31.9907676,34.849123,True,"At:
 כפר חב""ד
-Sick: 39
-Population: 6724",0.005800118976799524
-140,6648,1,טובא-זנגריה,https://nominatim.openstreetmap.org/search.php?q=טובא-זנגריה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=טובא-זנגריה&format=json"">link</a>",32.9663198,35.5944243,True,"At:
+Sick: 41
+Population: 6724
+Per 1000: 6.097560975609756",6.097560975609756
+142,6648,1,טובא-זנגריה,https://nominatim.openstreetmap.org/search.php?q=טובא-זנגריה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=טובא-זנגריה&format=json"">link</a>",32.9663198,35.5944243,True,"At:
 טובא-זנגריה
 Sick: 1
-Population: 6648",0.00015042117930204573
-116,6586,2,בוקעאתא,https://nominatim.openstreetmap.org/search.php?q=בוקעאתא&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בוקעאתא&format=json"">link</a>",33.20076,35.7779892,True,"At:
+Population: 6648
+Per 1000: 0.15042117930204574",0.15042117930204574
+118,6586,2,בוקעאתא,https://nominatim.openstreetmap.org/search.php?q=בוקעאתא&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בוקעאתא&format=json"">link</a>",33.20076,35.7779892,True,"At:
 בוקעאתא
 Sick: 2
-Population: 6586",0.0003036744609778318
-110,6533,3,בית דגן,https://nominatim.openstreetmap.org/search.php?q=בית דגן&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בית דגן&format=json"">link</a>",32.0004347,34.8306669,True,"At:
+Population: 6586
+Per 1000: 0.3036744609778318",0.3036744609778318
+112,6533,3,בית דגן,https://nominatim.openstreetmap.org/search.php?q=בית דגן&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בית דגן&format=json"">link</a>",32.0004347,34.8306669,True,"At:
 בית דגן
 Sick: 3
-Population: 6533",0.00045920710240318386
-100,6478,5,שלומי,https://nominatim.openstreetmap.org/search.php?q=שלומי&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=שלומי&format=json"">link</a>",33.0760504,35.1485842,True,"At:
+Population: 6533
+Per 1000: 0.45920710240318385",0.45920710240318385
+104,6478,5,שלומי,https://nominatim.openstreetmap.org/search.php?q=שלומי&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=שלומי&format=json"">link</a>",33.0760504,35.1485842,True,"At:
 שלומי
 Sick: 5
-Population: 6478",0.0007718431614695894
-87,6367,7,שבלי - אום אל-גנם,https://nominatim.openstreetmap.org/search.php?q=שבלי - אום אל-גנם&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=שבלי - אום אל-גנם&format=json"">link</a>",32.6758493,35.3918678,True,"At:
+Population: 6478
+Per 1000: 0.7718431614695893",0.7718431614695893
+79,6367,10,שבלי - אום אל-גנם,https://nominatim.openstreetmap.org/search.php?q=שבלי - אום אל-גנם&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=שבלי - אום אל-גנם&format=json"">link</a>",32.6758493,35.3918678,True,"At:
 שבלי - אום אל-גנם
-Sick: 7
-Population: 6367",0.001099418878592744
-139,6288,1,חורפיש,https://nominatim.openstreetmap.org/search.php?q=חורפיש&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=חורפיש&format=json"">link</a>",33.01737,35.3469551,True,"At:
+Sick: 10
+Population: 6367
+Per 1000: 1.5705983979896339",1.5705983979896339
+141,6288,1,חורפיש,https://nominatim.openstreetmap.org/search.php?q=חורפיש&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=חורפיש&format=json"">link</a>",33.01737,35.3469551,True,"At:
 חורפיש
 Sick: 1
-Population: 6288",0.00015903307888040714
-91,6178,6,להבים,https://nominatim.openstreetmap.org/search.php?q=להבים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=להבים&format=json"">link</a>",31.3703233,34.8136886,True,"At:
+Population: 6288
+Per 1000: 0.15903307888040713",0.15903307888040713
+93,6178,6,להבים,https://nominatim.openstreetmap.org/search.php?q=להבים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=להבים&format=json"">link</a>",31.3703233,34.8136886,True,"At:
 להבים
 Sick: 6
-Population: 6178",0.0009711880867594691
-121,6147,2,ג'ולס,https://nominatim.openstreetmap.org/search.php?q=ג'ולס&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ג'ולס&format=json"">link</a>",32.9430618,35.1869431,True,"At:
+Population: 6178
+Per 1000: 0.9711880867594691",0.9711880867594691
+124,6147,2,ג'ולס,https://nominatim.openstreetmap.org/search.php?q=ג'ולס&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=ג'ולס&format=json"">link</a>",32.9430618,35.1869431,True,"At:
 ג'ולס
 Sick: 2
-Population: 6147",0.00032536196518626975
-150,6027,1,פרדסיה,https://nominatim.openstreetmap.org/search.php?q=פרדסיה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=פרדסיה&format=json"">link</a>",32.3056651,34.9122678,True,"At:
+Population: 6147
+Per 1000: 0.32536196518626975",0.32536196518626975
+152,6027,1,פרדסיה,https://nominatim.openstreetmap.org/search.php?q=פרדסיה&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=פרדסיה&format=json"">link</a>",32.3056651,34.9122678,True,"At:
 פרדסיה
 Sick: 1
-Population: 6027",0.00016592002654720425
-115,5954,3,צור יצחק,https://nominatim.openstreetmap.org/search.php?q=צור יצחק&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=צור יצחק&format=json"">link</a>",32.24124,34.9983819,True,"At:
+Population: 6027
+Per 1000: 0.16592002654720425",0.16592002654720425
+116,5954,3,צור יצחק,https://nominatim.openstreetmap.org/search.php?q=צור יצחק&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=צור יצחק&format=json"">link</a>",32.24124,34.9983819,True,"At:
 צור יצחק
 Sick: 3
-Population: 5954",0.0005038629492777964
-117,5767,2,בית אל,https://nominatim.openstreetmap.org/search.php?q=בית אל&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בית אל&format=json"">link</a>",31.9420729,35.2224417,True,"At:
+Population: 5954
+Per 1000: 0.5038629492777964",0.5038629492777964
+119,5767,2,בית אל,https://nominatim.openstreetmap.org/search.php?q=בית אל&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בית אל&format=json"">link</a>",31.9420729,35.2224417,True,"At:
 בית אל
 Sick: 2
-Population: 5767",0.0003468007629616785
-32,5713,36,קרית יערים,https://nominatim.openstreetmap.org/search.php?q=קרית יערים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית יערים&format=json"">link</a>",31.8035128,35.1012545,True,"At:
+Population: 5767
+Per 1000: 0.3468007629616785",0.3468007629616785
+33,5713,37,קרית יערים,https://nominatim.openstreetmap.org/search.php?q=קרית יערים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=קרית יערים&format=json"">link</a>",31.8035128,35.1012545,True,"At:
 קרית יערים
-Sick: 36
-Population: 5713",0.006301417819009277
-147,5677,1,עיילבון,https://nominatim.openstreetmap.org/search.php?q=עיילבון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=עיילבון&format=json"">link</a>",32.838349,35.39777,True,"At:
+Sick: 37
+Population: 5713
+Per 1000: 6.476457202870646",6.476457202870646
+149,5677,1,עיילבון,https://nominatim.openstreetmap.org/search.php?q=עיילבון&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=עיילבון&format=json"">link</a>",32.838349,35.39777,True,"At:
 עיילבון
 Sick: 1
-Population: 5677",0.00017614937466971993
-142,5599,1,כפר ורדים,https://nominatim.openstreetmap.org/search.php?q=כפר ורדים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כפר ורדים&format=json"">link</a>",32.9972507,35.2725342,True,"At:
+Population: 5677
+Per 1000: 0.17614937466971992",0.17614937466971992
+125,5599,2,כפר ורדים,https://nominatim.openstreetmap.org/search.php?q=כפר ורדים&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=כפר ורדים&format=json"">link</a>",32.9972507,35.2725342,True,"At:
 כפר ורדים
-Sick: 1
-Population: 5599",0.0001786033220217896
-104,5299,4,גבע בנימין,https://nominatim.openstreetmap.org/search.php?q=גבע בנימין&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=גבע בנימין&format=json"">link</a>",31.8503299,35.2739808,True,"At:
+Sick: 2
+Population: 5599
+Per 1000: 0.3572066440435792",0.3572066440435792
+108,5299,4,גבע בנימין,https://nominatim.openstreetmap.org/search.php?q=גבע בנימין&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=גבע בנימין&format=json"">link</a>",31.8503299,35.2739808,True,"At:
 גבע בנימין
 Sick: 4
-Population: 5299",0.0007548594074353652
-135,5124,1,בת חפר,https://nominatim.openstreetmap.org/search.php?q=בת חפר&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בת חפר&format=json"">link</a>",32.3331192,35.013631778585264,True,"At:
+Population: 5299
+Per 1000: 0.7548594074353652",0.7548594074353652
+137,5124,1,בת חפר,https://nominatim.openstreetmap.org/search.php?q=בת חפר&format=json,"<a href=""https://nominatim.openstreetmap.org/search.php?q=בת חפר&format=json"">link</a>",32.3331192,35.013631778585264,True,"At:
 בת חפר
 Sick: 1
-Population: 5124",0.000195160031225605
+Population: 5124
+Per 1000: 0.195160031225605",0.195160031225605
